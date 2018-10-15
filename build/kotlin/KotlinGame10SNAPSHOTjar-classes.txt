@@ -1,0 +1,1 @@
+/Users/1530983/IdeaProjects/KotlinGame/build/classes/kotlin/main/net/hollowbit/kotlingame/DesktopLauncherKt.class:/Users/1530983/IdeaProjects/KotlinGame/build/classes/kotlin/main/net/hollowbit/kotlingame/KotlinGame.class
